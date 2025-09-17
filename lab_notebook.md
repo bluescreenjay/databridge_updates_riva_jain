@@ -43,6 +43,7 @@ Started GitHub repo - started this GitHub repo<br>
 
 #### Outputs
 Not much yet - more outputs likely to come next shift - got caught up in setting up lab notebook/admin work today<br>
+Kind of long output today - not a visualization - so check the notebook and run the code to grab output.
 
 #### Action Items
 Add repo to Github org - check w/ Jonathan<br>
